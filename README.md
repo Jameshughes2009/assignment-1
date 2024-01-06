@@ -1,3 +1,3 @@
-# Code Refactor Starter Code
-## James Test 
+# Assignment 1 For UofT Coding Bootcamp 
+## By James Hughes
 ## Test Again 
