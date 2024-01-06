@@ -8,3 +8,6 @@
 * [ClonedSourceCodeFrom](https://github.com/coding-boot-camp/urban-octo-telegram).
 
 * [LinkToClonedInfoInMyRepository](https://github.com/Jameshughes2009/assignment-1/tree/main/Develop).
+
+
+![ImageofWebPage](C:\Users\james\bootcamp\assignment-1\Develop\assets\images\Screenshot 2024-01-06 121218.png).
