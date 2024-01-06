@@ -10,4 +10,5 @@
 * [LinkToClonedInfoInMyRepository](https://github.com/Jameshughes2009/assignment-1/tree/main/Develop).
 
 
-* [ImageofWebPage](./Develop/assets/images/Screenshot%202024-01-06%20121218.png).
+* ![Screenshot 2024-01-06 121218](https://github.com/Jameshughes2009/assignment-1/assets/151469326/b150b9f1-5d1d-4e40-bfbf-616fb25aa574)
+
