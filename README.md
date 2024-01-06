@@ -5,6 +5,4 @@
 
 * [ClassMaterials](https://github.com/kodeman14/utor-fsf-dec23/tree/main/01-HTML-Git-CSS/02-Challenge).
 
-* Class Materials https://github.com/kodeman14/utor-fsf-dec23/tree/main/01-HTML-Git-CSS/02-Challenge
-
-* Cloned start code from [https://github.com/coding-boot-camp/urban-octo-telegram]
+* [ClonedSourceCodeFrom](https://github.com/coding-boot-camp/urban-octo-telegram).
