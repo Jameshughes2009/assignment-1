@@ -7,4 +7,4 @@
 
 * [ClonedSourceCodeFrom](https://github.com/coding-boot-camp/urban-octo-telegram).
 
-* [LinkToInfoInMyRepository](https://github.com/Jameshughes2009/assignment-1/tree/main/Develop).
+* [LinkToClonedInfoInMyRepository](https://github.com/Jameshughes2009/assignment-1/tree/main/Develop).
