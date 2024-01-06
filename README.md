@@ -10,4 +10,4 @@
 * [LinkToClonedInfoInMyRepository](https://github.com/Jameshughes2009/assignment-1/tree/main/Develop).
 
 
-* [ImageofWebPage](README.md/Develop/assets/images/Screenshot 2024-01-06 121218.png)
+* [ImageofWebPage](./Develop/assets/images/Screenshot%202024-01-06%20121218.png).
