@@ -12,3 +12,4 @@
 
 * ![Screenshot 2024-01-06 121218](https://github.com/Jameshughes2009/assignment-1/assets/151469326/b150b9f1-5d1d-4e40-bfbf-616fb25aa574)
 
+* Adding Commit "The last change where all related to fixing the side bar it ended up beging displayed lower than the other three boxs for some reason but i belive I fixed it. Sorry for the late Edits"
